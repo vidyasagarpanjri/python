@@ -1,3 +1,5 @@
+#script to take folder as input and put put the DOS headers next file offset and compile timestamp
+
 import pefile
 import glob
 import datetime
